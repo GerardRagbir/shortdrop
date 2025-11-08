@@ -1,0 +1,15 @@
+# generate for python 
+__pycache__/
+
+# generate for venv
+*venv/
+
+# generate for .env
+.env
+
+# generate for .env.local
+.env.local
+
+*.db
+
+# generate for .env.development.local
